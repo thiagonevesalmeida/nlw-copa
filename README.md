@@ -1,7 +1,7 @@
 <h1 align="center"> Nlw-Copa #2022</h1>
 
 <p align="center">
-Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat.
+Projeto desenvolvido para o evento Next Level Week (NLW) da Rocketseat.
 </p>
 
 <p align="center">
@@ -28,10 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O "WorldCup-Calendar" é um projeto que mostra os jogos da Copa de 2022.
+O "WorldCup-Calendar" é um projeto que mostra os jogos da Copa de 2022, desenvolvido durante o evento NLW da Rocketseat.
 
 ## 🔖 Layout
 
