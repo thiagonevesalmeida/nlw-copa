@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O "WorldCup-Calendar" é um projeto que mostra os jogos da Copa de 2022, desenvolvido durante o evento NLW da Rocketseat.
+O "WorldCup-Calendar" é um projeto que mostra os jogos da Copa de 2022, desenvolvido durante o evento NLW da Rocketseat. Você pode acessar o projeto online [CLICANDO AQUI](https://thiagonevesalmeida.github.io/nlw-copa/).
 
 ## 🔖 Layout
 
